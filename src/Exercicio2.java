@@ -18,7 +18,7 @@ public class Exercicio2 {
 		
 		//Aqui caso a nota seja maior que 10 ou menor que 0, informe o erro	e repita	 
 		if(nota < 0 || nota > 10) {				
-		System.out.println("ERRO: Digite uma nota válida");}
+		System.out.println("ERRO: Digite uma nota válida!");}
 		//Se não, informe que é um nota válida e pare o programa
 		else {
 			System.out.println("Esta é uma nota válida.");
