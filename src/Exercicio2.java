@@ -12,7 +12,7 @@ public class Exercicio2 {
 		
 		double nota;
 		
-		while(true) { //Aqui inicio o enquanto como verdadeiro
+		while(true) { //Aqui o codigo inicia o "enquanto" como verdadeiro
 		System.out.print("Digite uma nota: "); //Peço para digitar um valor
 		nota = scan.nextDouble(); //Programa reconhece o valor
 		
